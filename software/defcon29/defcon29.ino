@@ -60,7 +60,9 @@ void loop() {
       lcd.setCursor(0, 0);
       lcd.print("Got data! >w<    ");
       lcd.setCursor(0, 1);
-      lcd.print(telco.read_digit());
+      char digit = telco.read_digit();
+      lcd.print(digit);
+      Serial.println(digit, DEC);
     }
 }
 

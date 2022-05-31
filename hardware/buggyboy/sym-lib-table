@@ -2,4 +2,5 @@
   (lib (name buggyboy)(type Legacy)(uri /home//projects/buggyboy/hardware/buggyboy/buggyboy.lib)(options "")(descr ""))
   (lib (name i2s_codec-cache)(type Legacy)(uri /home//projects/i2s_audio_phat/KiCad/i2s_codec-cache.lib)(options "")(descr ""))
   (lib (name brains-rescue)(type Legacy)(uri ${KIPRJMOD}/brains-rescue.lib)(options "")(descr ""))
+  (lib (name keypad-rescue)(type Legacy)(uri ${KIPRJMOD}/keypad-rescue.lib)(options "")(descr ""))
 )
