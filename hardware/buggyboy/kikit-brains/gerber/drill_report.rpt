@@ -1,0 +1,32 @@
+Drill report for brains_cn.kicad_pcb
+Created on Sat Jun 11 23:01:35 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'brains_cn.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.40mm  0.016"  (67 holes)
+    T2  0.60mm  0.024"  (32 holes)
+    T3  0.80mm  0.031"  (58 holes)
+    T4  0.90mm  0.035"  (3 holes)
+    T5  1.00mm  0.039"  (36 holes)  (with 10 slots)
+    T6  1.17mm  0.046"  (2 holes)
+    T7  1.20mm  0.047"  (4 holes)
+    T8  1.50mm  0.059"  (4 holes)
+    T9  4.30mm  0.169"  (4 holes)
+
+    Total plated holes count 210
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+    T10  1.60mm  0.063"  (6 holes)
+    T11  3.56mm  0.140"  (1 hole)
+
+    Total unplated holes count 7

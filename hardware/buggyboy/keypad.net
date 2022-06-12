@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/grant/projects/buggyboy/hardware/buggyboy/keypad.sch)
-    (date "Mon 30 May 2022 09:33:23 PM PDT")
+    (date "Wed 01 Jun 2022 08:52:37 PM PDT")
     (tool "Eeschema 5.1.9+dfsg1-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -162,7 +162,7 @@
       (tstamp 60E47389))
     (comp (ref U1)
       (value HD44780)
-      (footprint Display:WC1602A)
+      (footprint buggyboy:WC1602A)
       (libsource (lib keypad-rescue) (part HD44780-buggyboy) (description ""))
       (sheetpath (names /) (tstamps /))
       (tstamp 60E473B0))

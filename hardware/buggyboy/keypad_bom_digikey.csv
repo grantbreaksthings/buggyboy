@@ -1,0 +1,14 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J1";"PinHeader_1x12_P2.54mm_Vertical";1;"Conn_01x12";;;
+2;"RV1";"TRIM_3313J-1-103E";1;"R_POT";;;
+3;"H1";"MountingHole_4.3mm_M4_Pad_Via";1;"MNT1";;;
+4;"H2";"MountingHole_4.3mm_M4_Pad_Via";1;"MNT2";;;
+5;"U2,U3";"DIP-16_W7.62mm_LongPads";2;"74LS166";;;
+6;"G***";"pone";1;"LOGO";;;
+7;"G***";"nugg";1;"LOGO";;;
+8;"H3";"MountingHole_4.3mm_M4_Pad_Via";1;"MNT3";;;
+9;"H4";"MountingHole_4.3mm_M4_Pad_Via";1;"MNT4";;;
+10;"R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";22;"1k";;;
+11;"R23";"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder";1;"220";;;
+12;"SW_0,SW_1,SW_2,SW_3,SW_4,SW_5,SW_6,SW_7,SW_8,SW_9,SW_A1,SW_B1,SW_C1,SW_D1,SW_OCTO1,SW_STAR1";"SW_Cherry_MX_1.00u_PCB";16;"SW_SPST";;;
+13;"U1";"WC1602A";1;"HD44780";;;

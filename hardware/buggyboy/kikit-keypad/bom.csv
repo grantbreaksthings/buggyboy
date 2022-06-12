@@ -1,0 +1,8 @@
+Comment,Designator,Footprint,LCSC
+SW_SPST,"SW_1,SW_2,SW_4,SW_5,SW_7,SW_8,SW_STAR1,SW_0,SW_3,SW_A1,SW_6,SW_B1,SW_9,SW_C1,SW_OCTO1,SW_D1",Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB,
+74LS166,"U2,U3",Package_DIP:DIP-16_W7.62mm_LongPads,
+1k,"R18,R21,R22,R19,R20,R17,R16,R12,R8,R4,R3,R7,R11,R15,R1,R5,R9,R13,R14,R10,R6,R2",Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,
+HD44780,U1,buggyboy:WC1602A,
+R_POT,RV1,buggyboy:TRIM_3313J-1-103E,
+220,R23,Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,
+Conn_01x12,J1,Connector_PinHeader_2.54mm:PinHeader_1x12_P2.54mm_Vertical,
